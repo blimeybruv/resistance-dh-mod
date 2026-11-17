@@ -1,0 +1,34 @@
+# Everything is ignored except what's listed below
+/*
+!/.gitignore
+!/README.md
+!/build/
+!/src/
+
+# build output and caches
+__pycache__/
+/build/LORE_*.txt
+/build/tech_template/
+
+# vanilla DH Full files: copied from your own install by build/import_vanilla.py
+/src/*
+!/src/assets/
+!/src/tech_raw/
+!/src/leaders.txt
+!/src/ministers.txt
+!/src/teams.txt
+
+# official Resistance art and found art of unknown source (see build/ASSETS.md):
+# the build falls back to borrowed vanilla tech pictures for these
+/src/tech_raw/95010.*
+/src/tech_raw/95030.*
+/src/tech_raw/95110.*
+/src/tech_raw/95140.*
+/src/tech_raw/95230.*
+/src/tech_raw/95310.*
+/src/assets/gfx/interface/tech/95010.bmp
+/src/assets/gfx/interface/tech/95030.bmp
+/src/assets/gfx/interface/tech/95110.bmp
+/src/assets/gfx/interface/tech/95140.bmp
+/src/assets/gfx/interface/tech/95230.bmp
+/src/assets/gfx/interface/tech/95310.bmp
