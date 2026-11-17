@@ -12,12 +12,11 @@ It adds:
 ## Installing
 
 1. Install **Darkest Hour** and patch it to **1.05.2**. Earlier versions crash on the Chimera's country tag, because the `UA0`–`UF9` tags only exist from 1.05.
-2. Install **DH Full** on top of it.
-3. Make a **copy** of the DH Full folder for the mod.
-4. Download the mod zip from [Releases](../../releases) and unpack it over that copy, overwriting files.
-5. Start the game from the copy and pick the scenario *Resistance: The Fall of Europe (1933)*.
+2. Make a **copy** of the DH Full folder, which comes with the game, for the mod.
+3. Download the mod zip from [Releases](../../releases) and unpack it over that copy, overwriting files.
+4. Start the game from the copy and pick the scenario *Resistance: The Fall of Europe (1933)*.
 
-The mod ships modified copies of some DH Full files, so it must go over DH Full and not over plain Darkest Hour or another mod.
+The mod ships modified copies of some DH Full files, so it must go over a copy of DH Full and not over DH Light or another mod.
 
 ## Building from source
 
