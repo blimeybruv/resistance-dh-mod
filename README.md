@@ -50,6 +50,10 @@ This is a work in progress, and much of it is untested in game. `build/DH_FACTS.
 
 A few tech pictures that used official *Resistance* art are left out of this repository; those techs show borrowed vanilla pictures instead.
 
+## Licence
+
+The code in `build/` is under the [MIT licence](LICENSE). The art and writing are under [CC BY-NC-SA 4.0](LICENSE-ART.md): free to share and adapt for non-commercial use, with credit and under the same terms.
+
 ## Credits
 
 *Resistance* and the Chimera belong to Insomniac Games and Sony Interactive Entertainment. This is an unofficial fan project, not affiliated with or endorsed by them.
